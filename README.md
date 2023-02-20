@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://pongo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory-000000?style=plastic&logo=Tstoty&logoColor=000000"/></a>
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyoungYoung&show_icons=true&theme=solarized-light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyoungYoung)](https://github.com/KyoungYoung/github-readme-stats)
