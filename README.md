@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <!-- https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyoungYoung&show_icons=true&theme=solarized-light)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyoungYoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyoungYoung&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyoungYoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
