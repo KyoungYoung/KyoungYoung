@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👏 Hi
+### 안녕하세요!
 <a href="https://pongo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-Blog-DCDCDC?style=plastic&logo=Tistory&logoColor=000000"/></a>
 
